@@ -4,6 +4,8 @@ Hi 👋 My name is Faheem Ahmad
 Front-end Developer and Designer
 --------------------------------
 
+I am an undergraduate computer engineering student passionate about web applications and focusing on CS fundamentals like Algorithms, problem-solving, Networking, OOPs. I am a curious individual in consent pursuit of learning new and existing things. I have a proactive attitude and find positive ways to simulate and engage with people.
+
 * 🌍  I'm based in Aligarh, India
 * 🖥️  See my portfolio at [codezef](http://codezef.com/)
 * ✉️  You can contact me at [codezeff@gmail.com](mailto:codezeff@gmail.com)
